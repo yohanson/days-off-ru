@@ -1,13 +1,13 @@
-# Производственный календарь в формате JSON.
+# Производственный календарь в формате JSON
 
 Файл:
-[calendar.json](../blob/master/calendar.json)
+[calendar.json](calendar.json)
 
 Красивая версия:
-[calendar-pretty.json](../blob/master/calendar-pretty.json)
+[calendar-pretty.json](calendar-pretty.json)
 
 В формате basicdata.ru:
-[calendar-basicdata.json](../blob/master/calendar-basicdata.json)
+[calendar-basicdata.json](calendar-basicdata.json)
 
 Источник данных: http://data.gov.ru/opendata/7708660670-proizvcalendar
 
